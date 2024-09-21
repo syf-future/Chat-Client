@@ -23,6 +23,7 @@ struct Message
      */
     QString serializeMessage();
 
+
     /**
      * 反序列化
      * @brief deserializeMessage
